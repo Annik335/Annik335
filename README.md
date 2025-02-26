@@ -5,7 +5,7 @@
 ## Olá! Eu sou a Annik Cristinne 🖐️
 
 ```
-Sou estudante de Desenvolvimento Web no Instituto da Oportunidade Social (IOS), e sou apaixonada por tecnologia, inovação e música.⌨️👨‍💻
+Apaixonada por tecnologia, inovação e música.⌨️👨‍💻
 
 ```
 
